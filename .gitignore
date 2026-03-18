@@ -1,0 +1,27 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Build / cache
+dist/
+.sass-cache/
+*.log
+*.tmp
+
+# Environment
+.env
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Misc
+*.bak
+*.swp
